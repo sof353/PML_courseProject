@@ -2,7 +2,7 @@
 title: "Coursera - Practical Machine Learning Course Project"
 author: "sof"
 date: "Thursday, April 23, 2015"
-output: word_document
+output: html_document
 ---
 ## 1. Introduction
 Devices such as Jawbone Up, Nike FuelBand, and Fitbit collect a large amount of data about personal activity.  The goal of this study is to interpret data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants as they perform different exercises at intentionally different levels of efficacy. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. The nature of their activities were categorized A through F representing the following actions:
